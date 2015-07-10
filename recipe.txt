@@ -8,7 +8,7 @@ Brownies
   1 oz. unsweetened chocolate
   1 tsp. instant coffee
   1 tsp. vanilla extract
-  300 eggs
+  3 eggs
 
   1 cup sugar
   1 cup flour
@@ -16,7 +16,7 @@ Brownies
 
   Directions
   ----------
-  1. Preheat oven to 32500 degrees F.
+  1. Preheat oven to 325 degrees F.
   2. Melt butter and chocolate in a double boiler.
   3. In order, stir in:
      - sugar
