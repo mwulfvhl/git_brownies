@@ -16,3 +16,14 @@ Brownies
 
   Directions
   ----------
+  1. Preheat oven to 32500 degrees F.
+  2. Melt butter and chocolate in a double boiler.
+  3. In order, stir in:
+     - sugar
+     - eggs
+     - instant coffee
+     - vanilla extract
+     - flour
+     - walnuts
+  4. Pour into greased 8x8 pan.
+  5. Bake for 25-30 minutes until toothpick inserted in center comes out with at most a few moist crumbs.
